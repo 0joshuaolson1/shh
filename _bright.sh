@@ -1,1 +1,1 @@
-xrandr --output eDP1 --brightness .3
+xrandr --output eDP-1 --brightness 1
