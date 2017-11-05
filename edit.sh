@@ -1,1 +1,1 @@
-nano -w _light.sh
+nano -w light.sh
